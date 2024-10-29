@@ -590,7 +590,7 @@ AnimAnim.AnimationId = "rbxassetid://18435303746" -- the specific anim
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
 
-local startTime = 0 -- the specific anim
+local startTime = 2.0 -- the specific anim
 
 
 Anim:Play()
